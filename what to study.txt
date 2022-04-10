@@ -1,0 +1,4 @@
+1. 이상치 판단에 쓰이는 IQR (inter Quantile Range)
+2. 왜도(skewness), 첨도(kurtosis)
+3. 정규화 (Min Max 정규화, Z score 정규화)
+4. RandomForestClassifier
